@@ -1,0 +1,176 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+img{
+    max-width: 100%;
+}
+h2{
+    color: #fff;
+    margin-bottom: 5px;
+    text-align: center;
+/*    background: #ddd;*/
+}
+
+.container{
+    width: 970px;
+    margin: 0 auto;
+   
+}
+
+.header{
+    overflow: hidden;
+    
+    
+}
+
+
+
+.logo{
+    width: 25%;
+    /* width: 100px; */
+    float: left;
+    width: 100px;
+    height:100px;
+    /* margin-right: 10px;  */
+}
+.logo img{
+    width: 100%;
+}
+.menu{
+    width: 70%;
+    float: right;
+    margin-top: 22px;
+   
+    
+    
+}
+
+.menu ul{
+    list-style: none;
+    float: right;
+
+    
+}
+.menu ul li{
+    display: inline-block;
+    /* padding: 20px; */
+    /* border-right: 1px solid green; */
+    
+
+
+}
+.menu ul li a{
+    text-decoration: none;
+    display: inline-block;
+    background: green;
+    padding: 15px;
+    color: white;
+    box-sizing: border-box;
+    border-radius: 5px;
+   
+
+
+}
+.menu ul li a:hover{
+    
+}
+
+.left_content{
+    width: 50%;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+    text-align: justify;
+    background: aqua;
+    
+}
+.content{
+    overflow: hidden;
+}
+.right_content{
+    width: 50%;
+    float: right;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: justify;
+    
+}
+.right_content_one{
+    background: aqua;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
+.right_content_two{
+    background: aqua;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    
+}
+.content{
+   margin-top: 5px;
+}
+.news_section{
+    
+    
+}
+.news_section{
+    overflow: hidden;
+    margin-top: 5px;
+/*    background:#f2f2f2; */
+}
+.news_left{
+    width: 33%;
+    float: left;
+    padding: 10px;
+    background: coral;
+    box-sizing: border-box;
+    text-align: justify;
+}
+.news_middle{
+    width: 33%;
+    float: left;
+    padding: 5px;
+    
+    
+/*    background: coral;*/
+
+    box-sizing: border-box;
+/*    text-align: justify;*/
+
+}
+.middle_one{
+    padding: 5px;
+    background: coral;
+    box-sizing: border-box;
+    
+/*    text-align: justify;*/
+}
+.middle_two{
+    padding: 5px;
+    background: coral;
+    box-sizing: border-box;
+/*    text-align: justify;*/
+    margin-top: 5px;
+}
+.news_right{
+    width: 33%;;
+    float: left;
+    padding: 10px;
+    background: coral;
+    box-sizing: border-box;
+    text-align: justify;
+}
+.footer{
+    background: black;
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: white;
+    
+    
+}
